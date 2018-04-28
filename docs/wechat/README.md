@@ -1,3 +1,8 @@
+
+### path 
+
+docs/wechat/README.md
+
 # this is a readme.md
 ``` javascript
 
