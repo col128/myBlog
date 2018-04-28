@@ -9,6 +9,11 @@ docs/wechat/README.md
 https://col128.github.io/myBlog/#/wechat/
 
 
+如果没有加后面的斜杠的话,就访问不了
+
+https://col128.github.io/myBlog/#/wechat
+
+
 # this is a readme.md
 ``` javascript
 
