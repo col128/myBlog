@@ -6,3 +6,11 @@ let str = 'hello world'
 console.log(str)
 
 ```
+
+``` javascript
+
+let str = 'hello world'
+
+console.log(str)
+
+```
